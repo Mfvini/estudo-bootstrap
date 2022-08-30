@@ -1,0 +1,39 @@
+*{
+    margin: 2px;;
+    padding: 5px;;
+}
+
+body{
+    background-image: linear-gradient(to right, #ffffff, #000000);
+    margin: 3;
+    padding: 5;
+}
+
+p{
+    font-size: 22px;
+    color: gray
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+nav{
+    font-size: 22px;
+    color:blueviolet;
+    border: 1px solid blue;
+    padding: 10px;
+}
+/*
+button {
+    border-radius: 8px;
+}
+
+button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #0fd8d8; /* Green 
+    color: rgb(0, 0, 0);
+} */
+
